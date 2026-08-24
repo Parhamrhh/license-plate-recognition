@@ -1,0 +1,6 @@
+flask
+flask_cors
+flask_socketio
+requests
+opencv-python
+easyocr
