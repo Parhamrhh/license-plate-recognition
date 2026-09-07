@@ -1,0 +1,63 @@
+{
+  "total_samples": 5009,
+  "accepted": 3110,
+  "rejected": 1899,
+  "correct_accepted": 2113,
+  "wrong_accepted": 997,
+  "raw_exact_matches": 2554,
+  "raw_exact_accuracy": 0.5098822120183669,
+  "final_correct": 2113,
+  "final_accuracy": 0.42184068676382513,
+  "wrong_accepted_rate": 0.19904172489518865,
+  "rejection_rate": 0.37911758834098624,
+  "token_correct": 35852,
+  "total_tokens": 40072,
+  "token_accuracy": 0.8946895587941704,
+  "middle_correct": 2815,
+  "middle_accuracy": 0.5619884208424836,
+  "mean_processing_time_ms": 111.24352645238571,
+  "min_processing_time_ms": 90.972,
+  "max_processing_time_ms": 235.855,
+  "plate_type_metrics": {
+    "disabled": {
+      "total": 7,
+      "raw_exact_accuracy": 0.8571428571428571,
+      "final_accuracy": 0.5714285714285714,
+      "middle_accuracy": 1.0
+    },
+    "government": {
+      "total": 14,
+      "raw_exact_accuracy": 0.5714285714285714,
+      "final_accuracy": 0.5714285714285714,
+      "middle_accuracy": 0.8571428571428571
+    },
+    "other": {
+      "total": 1,
+      "raw_exact_accuracy": 0.0,
+      "final_accuracy": 0.0,
+      "middle_accuracy": 0.0
+    },
+    "private": {
+      "total": 4732,
+      "raw_exact_accuracy": 0.49619611158072696,
+      "final_accuracy": 0.4074387151310228,
+      "middle_accuracy": 0.5388841927303466
+    },
+    "public": {
+      "total": 102,
+      "raw_exact_accuracy": 0.7156862745098039,
+      "final_accuracy": 0.6176470588235294,
+      "middle_accuracy": 0.9215686274509803
+    },
+    "taxi": {
+      "total": 153,
+      "raw_exact_accuracy": 0.7777777777777778,
+      "final_accuracy": 0.7189542483660131,
+      "middle_accuracy": 0.9934640522875817
+    }
+  },
+  "available_clean_samples": 5009,
+  "evaluated_samples": 5009,
+  "excluded_annotations": 550,
+  "total_evaluation_time_seconds": 559.7914071029809
+}

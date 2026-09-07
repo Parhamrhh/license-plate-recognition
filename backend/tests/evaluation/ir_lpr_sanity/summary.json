@@ -1,0 +1,56 @@
+{
+  "total_samples": 20,
+  "accepted": 16,
+  "rejected": 4,
+  "correct_accepted": 10,
+  "wrong_accepted": 6,
+  "raw_exact_matches": 12,
+  "raw_exact_accuracy": 0.6,
+  "final_correct": 10,
+  "final_accuracy": 0.5,
+  "wrong_accepted_rate": 0.3,
+  "rejection_rate": 0.2,
+  "token_correct": 149,
+  "total_tokens": 160,
+  "token_accuracy": 0.93125,
+  "middle_correct": 15,
+  "middle_accuracy": 0.75,
+  "mean_processing_time_ms": 131.87375,
+  "min_processing_time_ms": 109.173,
+  "max_processing_time_ms": 243.61,
+  "plate_type_metrics": {
+    "disabled": {
+      "total": 7,
+      "raw_exact_accuracy": 0.8571428571428571,
+      "final_accuracy": 0.5714285714285714,
+      "middle_accuracy": 1.0
+    },
+    "government": {
+      "total": 3,
+      "raw_exact_accuracy": 0.3333333333333333,
+      "final_accuracy": 0.3333333333333333,
+      "middle_accuracy": 1.0
+    },
+    "other": {
+      "total": 1,
+      "raw_exact_accuracy": 0.0,
+      "final_accuracy": 0.0,
+      "middle_accuracy": 0.0
+    },
+    "private": {
+      "total": 8,
+      "raw_exact_accuracy": 0.5,
+      "final_accuracy": 0.5,
+      "middle_accuracy": 0.5
+    },
+    "taxi": {
+      "total": 1,
+      "raw_exact_accuracy": 1.0,
+      "final_accuracy": 1.0,
+      "middle_accuracy": 1.0
+    }
+  },
+  "clean_dataset_samples": 20,
+  "excluded_annotations": 550,
+  "total_evaluation_time_seconds": 2.6471357519913
+}

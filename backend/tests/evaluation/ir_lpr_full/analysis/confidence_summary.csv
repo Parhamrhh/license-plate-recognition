@@ -1,0 +1,4 @@
+﻿category,samples,mean,median,min,max
+Correct accepted,2113,0.977683,0.990378,0.712641,0.999051
+Wrong accepted,997,0.922488,0.943117,0.701132,0.997250
+Rejected,1773,0.878983,0.912042,0.254238,0.998557

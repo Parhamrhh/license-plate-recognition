@@ -1,0 +1,454 @@
+{
+  "samples": 5009,
+  "correct_accepted": 2113,
+  "wrong_accepted": 997,
+  "rejected": 1899,
+  "exact_match_among_accepted_percent": 67.94212218649518,
+  "plate_type_metrics": [
+    {
+      "plate_type": "disabled",
+      "samples": 7,
+      "raw_exact_accuracy": "85.7143",
+      "correct_and_accepted_rate": "57.1429",
+      "middle_accuracy": "100.0000"
+    },
+    {
+      "plate_type": "government",
+      "samples": 14,
+      "raw_exact_accuracy": "57.1429",
+      "correct_and_accepted_rate": "57.1429",
+      "middle_accuracy": "85.7143"
+    },
+    {
+      "plate_type": "other",
+      "samples": 1,
+      "raw_exact_accuracy": "0.0000",
+      "correct_and_accepted_rate": "0.0000",
+      "middle_accuracy": "0.0000"
+    },
+    {
+      "plate_type": "private",
+      "samples": 4732,
+      "raw_exact_accuracy": "49.6196",
+      "correct_and_accepted_rate": "40.7439",
+      "middle_accuracy": "53.8884"
+    },
+    {
+      "plate_type": "public",
+      "samples": 102,
+      "raw_exact_accuracy": "71.5686",
+      "correct_and_accepted_rate": "61.7647",
+      "middle_accuracy": "92.1569"
+    },
+    {
+      "plate_type": "taxi",
+      "samples": 153,
+      "raw_exact_accuracy": "77.7778",
+      "correct_and_accepted_rate": "71.8954",
+      "middle_accuracy": "99.3464"
+    }
+  ],
+  "position_metrics": [
+    {
+      "position": 0,
+      "position_name": "First-1",
+      "correct": 4700,
+      "total": 5009,
+      "accuracy": "93.8311",
+      "error_rate": "6.1689"
+    },
+    {
+      "position": 1,
+      "position_name": "First-2",
+      "correct": 4747,
+      "total": 5009,
+      "accuracy": "94.7694",
+      "error_rate": "5.2306"
+    },
+    {
+      "position": 2,
+      "position_name": "Middle",
+      "correct": 2815,
+      "total": 5009,
+      "accuracy": "56.1988",
+      "error_rate": "43.8012"
+    },
+    {
+      "position": 3,
+      "position_name": "Serial-1",
+      "correct": 4769,
+      "total": 5009,
+      "accuracy": "95.2086",
+      "error_rate": "4.7914"
+    },
+    {
+      "position": 4,
+      "position_name": "Serial-2",
+      "correct": 4766,
+      "total": 5009,
+      "accuracy": "95.1487",
+      "error_rate": "4.8513"
+    },
+    {
+      "position": 5,
+      "position_name": "Serial-3",
+      "correct": 4740,
+      "total": 5009,
+      "accuracy": "94.6297",
+      "error_rate": "5.3703"
+    },
+    {
+      "position": 6,
+      "position_name": "Region-1",
+      "correct": 4678,
+      "total": 5009,
+      "accuracy": "93.3919",
+      "error_rate": "6.6081"
+    },
+    {
+      "position": 7,
+      "position_name": "Region-2",
+      "correct": 4637,
+      "total": 5009,
+      "accuracy": "92.5734",
+      "error_rate": "7.4266"
+    }
+  ],
+  "middle_letter_metrics": [
+    {
+      "middle": "ص",
+      "display": "Sad",
+      "samples": 453,
+      "correct": 0,
+      "accuracy": "0.0000"
+    },
+    {
+      "middle": "د",
+      "display": "D",
+      "samples": 451,
+      "correct": 175,
+      "accuracy": "38.8027"
+    },
+    {
+      "middle": "ق",
+      "display": "Q",
+      "samples": 419,
+      "correct": 146,
+      "accuracy": "34.8449"
+    },
+    {
+      "middle": "ج",
+      "display": "J",
+      "samples": 392,
+      "correct": 95,
+      "accuracy": "24.2347"
+    },
+    {
+      "middle": "م",
+      "display": "M",
+      "samples": 388,
+      "correct": 295,
+      "accuracy": "76.0309"
+    },
+    {
+      "middle": "ب",
+      "display": "B",
+      "samples": 388,
+      "correct": 130,
+      "accuracy": "33.5052"
+    },
+    {
+      "middle": "و",
+      "display": "V",
+      "samples": 372,
+      "correct": 142,
+      "accuracy": "38.1720"
+    },
+    {
+      "middle": "س",
+      "display": "Sin",
+      "samples": 354,
+      "correct": 244,
+      "accuracy": "68.9266"
+    },
+    {
+      "middle": "ط",
+      "display": "Ta",
+      "samples": 350,
+      "correct": 204,
+      "accuracy": "58.2857"
+    },
+    {
+      "middle": "ل",
+      "display": "L",
+      "samples": 309,
+      "correct": 288,
+      "accuracy": "93.2039"
+    },
+    {
+      "middle": "ن",
+      "display": "N",
+      "samples": 301,
+      "correct": 297,
+      "accuracy": "98.6711"
+    },
+    {
+      "middle": "ه",
+      "display": "H",
+      "samples": 288,
+      "correct": 274,
+      "accuracy": "95.1389"
+    },
+    {
+      "middle": "ی",
+      "display": "Y",
+      "samples": 267,
+      "correct": 260,
+      "accuracy": "97.3783"
+    },
+    {
+      "middle": "ت",
+      "display": "T",
+      "samples": 153,
+      "correct": 152,
+      "accuracy": "99.3464"
+    },
+    {
+      "middle": "ع",
+      "display": "Ein",
+      "samples": 102,
+      "correct": 94,
+      "accuracy": "92.1569"
+    },
+    {
+      "middle": "الف",
+      "display": "Alef",
+      "samples": 14,
+      "correct": 12,
+      "accuracy": "85.7143"
+    },
+    {
+      "middle": "ژ",
+      "display": "Disabled",
+      "samples": 7,
+      "correct": 7,
+      "accuracy": "100.0000"
+    },
+    {
+      "middle": "ث",
+      "display": "Sse",
+      "samples": 1,
+      "correct": 0,
+      "accuracy": "0.0000"
+    }
+  ],
+  "top_middle_confusions": [
+    {
+      "ground_truth": "د",
+      "ground_truth_display": "D",
+      "prediction": "ن",
+      "prediction_display": "N",
+      "count": 228
+    },
+    {
+      "ground_truth": "ق",
+      "ground_truth_display": "Q",
+      "prediction": "ن",
+      "prediction_display": "N",
+      "count": 217
+    },
+    {
+      "ground_truth": "ص",
+      "ground_truth_display": "Sad",
+      "prediction": "ی",
+      "prediction_display": "Y",
+      "count": 152
+    },
+    {
+      "ground_truth": "ص",
+      "ground_truth_display": "Sad",
+      "prediction": "الف",
+      "prediction_display": "Alef",
+      "count": 146
+    },
+    {
+      "ground_truth": "ج",
+      "ground_truth_display": "J",
+      "prediction": "ع",
+      "prediction_display": "Ein",
+      "count": 142
+    },
+    {
+      "ground_truth": "ج",
+      "ground_truth_display": "J",
+      "prediction": "ی",
+      "prediction_display": "Y",
+      "count": 121
+    },
+    {
+      "ground_truth": "ص",
+      "ground_truth_display": "Sad",
+      "prediction": "س",
+      "prediction_display": "Sin",
+      "count": 120
+    },
+    {
+      "ground_truth": "ب",
+      "ground_truth_display": "B",
+      "prediction": "ت",
+      "prediction_display": "T",
+      "count": 107
+    },
+    {
+      "ground_truth": "و",
+      "ground_truth_display": "V",
+      "prediction": "ژ",
+      "prediction_display": "Disabled",
+      "count": 85
+    },
+    {
+      "ground_truth": "س",
+      "ground_truth_display": "Sin",
+      "prediction": "ی",
+      "prediction_display": "Y",
+      "count": 76
+    },
+    {
+      "ground_truth": "و",
+      "ground_truth_display": "V",
+      "prediction": "ه",
+      "prediction_display": "H",
+      "count": 70
+    },
+    {
+      "ground_truth": "ب",
+      "ground_truth_display": "B",
+      "prediction": "ث",
+      "prediction_display": "Sse",
+      "count": 62
+    },
+    {
+      "ground_truth": "و",
+      "ground_truth_display": "V",
+      "prediction": "ع",
+      "prediction_display": "Ein",
+      "count": 56
+    },
+    {
+      "ground_truth": "ق",
+      "ground_truth_display": "Q",
+      "prediction": "ی",
+      "prediction_display": "Y",
+      "count": 52
+    },
+    {
+      "ground_truth": "ط",
+      "ground_truth_display": "Ta",
+      "prediction": "ل",
+      "prediction_display": "L",
+      "count": 46
+    },
+    {
+      "ground_truth": "ب",
+      "ground_truth_display": "B",
+      "prediction": "ن",
+      "prediction_display": "N",
+      "count": 45
+    },
+    {
+      "ground_truth": "م",
+      "ground_truth_display": "M",
+      "prediction": "ع",
+      "prediction_display": "Ein",
+      "count": 42
+    },
+    {
+      "ground_truth": "ط",
+      "ground_truth_display": "Ta",
+      "prediction": "ژ",
+      "prediction_display": "Disabled",
+      "count": 39
+    },
+    {
+      "ground_truth": "م",
+      "ground_truth_display": "M",
+      "prediction": "",
+      "prediction_display": "None",
+      "count": 36
+    },
+    {
+      "ground_truth": "ب",
+      "ground_truth_display": "B",
+      "prediction": "ی",
+      "prediction_display": "Y",
+      "count": 23
+    }
+  ],
+  "confidence_summary": [
+    {
+      "category": "Correct accepted",
+      "samples": 2113,
+      "mean": "0.977683",
+      "median": "0.990378",
+      "min": "0.712641",
+      "max": "0.999051"
+    },
+    {
+      "category": "Wrong accepted",
+      "samples": 997,
+      "mean": "0.922488",
+      "median": "0.943117",
+      "min": "0.701132",
+      "max": "0.997250"
+    },
+    {
+      "category": "Rejected",
+      "samples": 1773,
+      "mean": "0.878983",
+      "median": "0.912042",
+      "min": "0.254238",
+      "max": "0.998557"
+    }
+  ],
+  "processing_time_summary": {
+    "samples": 5009,
+    "mean_ms": 111.24352645238571,
+    "median_ms": 108.718,
+    "std_ms": 12.726401895444805,
+    "min_ms": 90.972,
+    "max_ms": 235.855,
+    "p95_ms": 133.963
+  },
+  "rejection_gate_failures": [
+    {
+      "gate": "structure_valid",
+      "failed_samples": 126,
+      "percentage_of_rejected": "6.6351"
+    },
+    {
+      "gate": "confidence_ok",
+      "failed_samples": 267,
+      "percentage_of_rejected": "14.0600"
+    },
+    {
+      "gate": "middle_confidence_ok",
+      "failed_samples": 1419,
+      "percentage_of_rejected": "74.7235"
+    },
+    {
+      "gate": "middle_margin_ok",
+      "failed_samples": 272,
+      "percentage_of_rejected": "14.3233"
+    },
+    {
+      "gate": "color_ok",
+      "failed_samples": 813,
+      "percentage_of_rejected": "42.8120"
+    }
+  ],
+  "threshold_analysis_points": 46,
+  "error_exports": {
+    "wrong_accepted": 997,
+    "correct_but_rejected": 441
+  }
+}

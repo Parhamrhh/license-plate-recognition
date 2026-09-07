@@ -1,0 +1,6 @@
+﻿gate,failed_samples,percentage_of_rejected
+structure_valid,126,6.6351
+confidence_ok,267,14.0600
+middle_confidence_ok,1419,74.7235
+middle_margin_ok,272,14.3233
+color_ok,813,42.8120

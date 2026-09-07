@@ -1,0 +1,7 @@
+﻿plate_type,samples,raw_exact_accuracy,correct_and_accepted_rate,middle_accuracy
+disabled,7,85.7143,57.1429,100.0000
+government,14,57.1429,57.1429,85.7143
+other,1,0.0000,0.0000,0.0000
+private,4732,49.6196,40.7439,53.8884
+public,102,71.5686,61.7647,92.1569
+taxi,153,77.7778,71.8954,99.3464
